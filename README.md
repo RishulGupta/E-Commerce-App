@@ -1,8 +1,15 @@
 
 # 🛒 E-Commerce Android App
 
-![Home Screen](screenshots/home.png)
-![Product Details](screenshots/details.png)
+<p align="center">
+   <img src="https://github.com/RishulGupta/E-Commerce-App/blob/0097e99db3084c5686fa9a2e20d387fd248f8109/WhatsApp%20Image%202025-07-17%20at%2018.03.45_cac87491.jpg?raw=true" width="200" />
+    <img src="https://github.com/RishulGupta/E-Commerce-App/blob/0097e99db3084c5686fa9a2e20d387fd248f8109/WhatsApp%20Image%202025-07-17%20at%2018.03.45_a76f4a43.jpg?raw=true" width="200" />
+  <img src="https://github.com/RishulGupta/E-Commerce-App/blob/0097e99db3084c5686fa9a2e20d387fd248f8109/WhatsApp%20Image%202025-07-17%20at%2018.03.44_8882a4a3.jpg?raw=true" width="200" />
+  <img src="https://github.com/RishulGupta/E-Commerce-App/blob/0097e99db3084c5686fa9a2e20d387fd248f8109/WhatsApp%20Image%202025-07-17%20at%2018.03.44_e6efd037.jpg?raw=true" width="200" />
+</p>
+
+
+
 
 A **fully functional E-Commerce Android App** built using **Kotlin (MVVM Architecture)** and **XML layouts** in Android Studio.  
 This project is inspired by the beautiful UI showcased in this [UI Lover video](https://www.youtube.com/watch?v=PtBiFPYnUWE), and extended with backend logic, model classes, live data binding, and a modular code structure for scalability.
